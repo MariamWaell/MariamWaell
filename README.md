@@ -2,7 +2,7 @@
  Hi there, I'm Mariam</h1>
 
   <p>An ISTQB-Certified Tester and Systems & Biomedical Engineer passionate about software quality, automation, and continuous improvement. </p>
-  <p> For more details, take a look at my <a href="https://drive.google.com/file/d/1SF5nmvFHJYXazI4iIUobcubA3pOBjMZB/view" target="_blank">resume</a>.</p>
+  <p> For more details, take a look at my <a href="https://drive.google.com/file/d/1xk1fVQxP-tPq8pjvZIoVrr7dewIsi5w6/view" target="_blank">resume</a>.</p>
 
 <h2>💻 Languages I Code With</h2> 
   <p>
